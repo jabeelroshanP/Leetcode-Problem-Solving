@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0058-length-of-last-word](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
+| [3379-score-of-a-string](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/3379-score-of-a-string) |
 ## Math
 |  |
 | ------- |
