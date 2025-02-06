@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0326-power-of-three) |
 ## Dynamic Programming
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0326-power-of-three) |
 ## Linked List
 |  |
