@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0050-powx-n](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0326-power-of-three) |
 ## Dynamic Programming
 |  |
@@ -60,4 +61,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0908-middle-of-the-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
