@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0326-power-of-three) |
+| [0371-sum-of-two-integers](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0371-sum-of-two-integers) |
 | [2383-add-two-integers](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2383-add-two-integers) |
 ## Dynamic Programming
 |  |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
