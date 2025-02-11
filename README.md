@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0414-third-maximum-number) |
 ## Array
@@ -47,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0414-third-maximum-number) |
 | [3429-special-array-i](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/3429-special-array-i) |
 ## Two Pointers
