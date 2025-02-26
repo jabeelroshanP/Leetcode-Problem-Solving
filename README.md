@@ -6,12 +6,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
 | [3379-score-of-a-string](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/3379-score-of-a-string) |
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2058-concatenation-of-array) |
 ## Number Theory
