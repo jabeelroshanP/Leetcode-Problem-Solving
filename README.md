@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0371-sum-of-two-integers) |
 | [2383-add-two-integers](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2383-add-two-integers) |
+| [2507-number-of-common-factors](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2507-number-of-common-factors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,8 +85,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0258-add-digits) |
+| [2507-number-of-common-factors](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2507-number-of-common-factors) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0069-sqrtx) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
