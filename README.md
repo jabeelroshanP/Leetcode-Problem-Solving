@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0371-sum-of-two-integers) |
+| [1635-number-of-good-pairs](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2383-add-two-integers) |
 | [2507-number-of-common-factors](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2507-number-of-common-factors) |
 ## Dynamic Programming
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0217-contains-duplicate](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
+| [1635-number-of-good-pairs](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1635-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0414-third-maximum-number) |
+| [1635-number-of-good-pairs](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2058-concatenation-of-array) |
 | [3429-special-array-i](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/3429-special-array-i) |
 ## Two Pointers
@@ -99,4 +102,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0319-bulb-switcher) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
