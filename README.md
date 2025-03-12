@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0414-third-maximum-number) |
+| [3778-transform-array-by-parity](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/3778-transform-array-by-parity) |
 ## Array
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1651-shuffle-string](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1651-shuffle-string) |
 | [2058-concatenation-of-array](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2058-concatenation-of-array) |
 | [3429-special-array-i](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/3429-special-array-i) |
+| [3778-transform-array-by-parity](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1635-number-of-good-pairs) |
+| [3778-transform-array-by-parity](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/3778-transform-array-by-parity) |
 ## String Matching
 |  |
 | ------- |
