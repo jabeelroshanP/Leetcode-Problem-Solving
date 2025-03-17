@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0414-third-maximum-number) |
+| [0792-binary-search](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0792-binary-search) |
 | [1635-number-of-good-pairs](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1651-shuffle-string) |
 | [2058-concatenation-of-array](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2058-concatenation-of-array) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0069-sqrtx) |
+| [0792-binary-search](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Enumeration
 |  |
