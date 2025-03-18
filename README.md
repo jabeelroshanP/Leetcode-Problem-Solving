@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0069-sqrtx) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0371-sum-of-two-integers) |
