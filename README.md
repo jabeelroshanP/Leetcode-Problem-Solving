@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0812-rotate-string](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0812-rotate-string) |
 | [1651-shuffle-string](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1651-shuffle-string) |
+| [2128-reverse-prefix-of-word](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2128-reverse-prefix-of-word) |
 | [3379-score-of-a-string](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/3379-score-of-a-string) |
 ## Math
 |  |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0908-middle-of-the-linked-list) |
+| [2128-reverse-prefix-of-word](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2128-reverse-prefix-of-word) |
 ## Recursion
 |  |
 | ------- |
@@ -125,4 +127,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0812-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
