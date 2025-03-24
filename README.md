@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
+| [0459-repeated-substring-pattern](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0812-rotate-string) |
 | [1651-shuffle-string](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1651-shuffle-string) |
 | [2128-reverse-prefix-of-word](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2128-reverse-prefix-of-word) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0812-rotate-string) |
 ## Stack
 |  |
