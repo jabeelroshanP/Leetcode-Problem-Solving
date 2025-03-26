@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2383-add-two-integers) |
 | [2507-number-of-common-factors](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2507-number-of-common-factors) |
+| [2812-find-the-maximum-achievable-number](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2812-find-the-maximum-achievable-number) |
 ## Dynamic Programming
 |  |
 | ------- |
