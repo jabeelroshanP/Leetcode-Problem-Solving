@@ -1,5 +1,5 @@
 class Solution {
   bool containsDuplicate(List<int> nums) {
-    return nums.toSet().length < nums.length;
+    return nums.length != Set.from(nums).length;
   }
 }
