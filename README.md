@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1651-shuffle-string](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1651-shuffle-string) |
 | [2128-reverse-prefix-of-word](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3194-find-words-containing-character](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/3379-score-of-a-string) |
 ## Math
 |  |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3194-find-words-containing-character](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/3194-find-words-containing-character) |
 | [3429-special-array-i](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/3429-special-array-i) |
 | [3778-transform-array-by-parity](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
