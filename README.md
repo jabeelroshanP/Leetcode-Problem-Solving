@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0459-repeated-substring-pattern) |
+| [0520-detect-capital](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0812-rotate-string) |
 | [1651-shuffle-string](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1651-shuffle-string) |
 | [2128-reverse-prefix-of-word](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2128-reverse-prefix-of-word) |
