@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0520-detect-capital) |
+| [0782-jewels-and-stones](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0812-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0953-reverse-only-letters) |
 | [1651-shuffle-string](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1651-shuffle-string) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
+| [0782-jewels-and-stones](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [0924-fair-candy-swap](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0924-fair-candy-swap) |
 | [1635-number-of-good-pairs](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1635-number-of-good-pairs) |
 ## Bit Manipulation
