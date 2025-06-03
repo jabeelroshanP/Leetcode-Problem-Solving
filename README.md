@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0520-detect-capital](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0520-detect-capital) |
 | [0782-jewels-and-stones](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0812-rotate-string) |
+| [0837-most-common-word](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0837-most-common-word) |
 | [0953-reverse-only-letters](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0953-reverse-only-letters) |
 | [1651-shuffle-string](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1651-shuffle-string) |
 | [2128-reverse-prefix-of-word](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2128-reverse-prefix-of-word) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0782-jewels-and-stones) |
+| [0837-most-common-word](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0837-most-common-word) |
 | [0924-fair-candy-swap](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0924-fair-candy-swap) |
 | [1635-number-of-good-pairs](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1635-number-of-good-pairs) |
 ## Bit Manipulation
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0792-binary-search) |
+| [0837-most-common-word](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0837-most-common-word) |
 | [0924-fair-candy-swap](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0924-fair-candy-swap) |
 | [1635-number-of-good-pairs](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1651-shuffle-string) |
@@ -159,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0837-most-common-word](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0837-most-common-word) |
 | [1635-number-of-good-pairs](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1635-number-of-good-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3778-transform-array-by-parity](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/3778-transform-array-by-parity) |
