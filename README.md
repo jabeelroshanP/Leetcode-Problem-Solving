@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0258-add-digits) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0136-single-number) |
