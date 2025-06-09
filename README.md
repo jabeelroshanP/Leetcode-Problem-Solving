@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0088-merge-sorted-array) |
@@ -192,5 +194,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0605-can-place-flowers](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
