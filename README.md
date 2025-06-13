@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0242-valid-anagram) |
@@ -196,4 +197,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0605-can-place-flowers](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0605-can-place-flowers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
