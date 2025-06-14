@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0837-most-common-word) |
 | [0924-fair-candy-swap](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0924-fair-candy-swap) |
+| [1127-last-stone-weight](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1127-last-stone-weight) |
 | [1635-number-of-good-pairs](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1651-shuffle-string) |
 | [2058-concatenation-of-array](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2058-concatenation-of-array) |
@@ -201,4 +202,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
