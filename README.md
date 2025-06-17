@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0605-can-place-flowers) |
 | [0729-my-calendar-i](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0792-binary-search) |
