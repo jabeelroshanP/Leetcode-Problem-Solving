@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0485-max-consecutive-ones) |
@@ -211,4 +213,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1127-last-stone-weight) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
