@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0520-detect-capital) |
 | [0782-jewels-and-stones](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0812-rotate-string) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0837-most-common-word) |
 | [0924-fair-candy-swap](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0924-fair-candy-swap) |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0605-can-place-flowers) |
 | [0729-my-calendar-i](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0729-my-calendar-i) |
