@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0837-most-common-word](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0837-most-common-word) |
 | [0924-fair-candy-swap](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0924-fair-candy-swap) |
 | [1635-number-of-good-pairs](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1635-number-of-good-pairs) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3194-find-words-containing-character](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/3194-find-words-containing-character) |
 | [3429-special-array-i](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/3429-special-array-i) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3778-transform-array-by-parity](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
