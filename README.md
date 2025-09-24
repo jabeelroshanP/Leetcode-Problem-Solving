@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0924-fair-candy-swap](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0924-fair-candy-swap) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0500-keyboard-row) |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -223,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1127-last-stone-weight](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/1127-last-stone-weight) |
 ## Sliding Window
 |  |
@@ -232,4 +236,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0048-rotate-image) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jabeelroshanP/Leetcode-Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
